@@ -1,0 +1,29 @@
+{
+  "name": "context-reducer-hooks",
+  "version": "1.0.0",
+  "description": "contextAPI と useReducer を custom hooks から使う時の脳死コード",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/context-reducer-hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/context-reducer-hooks/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/context-reducer-hooks#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.11",
+    "@types/react": "^17.0.0",
+    "typescript": "^4.1.2"
+  }
+}
